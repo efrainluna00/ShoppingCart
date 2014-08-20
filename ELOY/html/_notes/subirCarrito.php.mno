@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsCat" value="name:id;datatype:int,name:cod_cate;datatype:string,name:categoria;datatype:string" />
+	<infoitem key="UD_rsActualizaciones" value="name:id;datatype:int,name:idVendedor;datatype:string,name:idCliente;datatype:string,name:fechaCompra;datatype:datetime,name:idIndexCarrito;datatype:int,name:uploaded;datatype:int,name:fechaUploaded;datatype:date,name:cnom;datatype:string" />
+</info>

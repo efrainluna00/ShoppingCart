@@ -1,0 +1,8 @@
+1,100,Articulos para  oficina,0
+2,200,Articulos  escolares,0
+3,300,Archivo y organizacion,0
+4,400,Articulos para fiestas,0
+5,500,Jugetes,0
+6,600,Articulos Deportivos,0
+7,OTROS,VARIOS,0
+8,MUSICA,MUSICA,1

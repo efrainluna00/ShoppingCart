@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsCat" value="name:id;datatype:int,name:cod_cate;datatype:string,name:categoria;datatype:string" />
+	<infoitem key="UD_rsofaz" value="name:cod_item;datatype:string,name:des_item;datatype:string,name:precio;datatype:real,name:imagen;datatype:string,name:id;datatype:int" />
+	<infoitem key="UD_rsCat2" value="name:id;datatype:int,name:cod_cate;datatype:string,name:categoria;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:cod_item;datatype:string,name:des_item;datatype:string,name:precio;datatype:real,name:costo;datatype:real,name:cant_stock;datatype:real,name:cod_cate;datatype:string,name:precio2;datatype:real,name:impuesto;datatype:real,name:imagen;datatype:string,name:precio_12;datatype:string,name:expiracion;datatype:date,name:precio3;datatype:real,name:precio4;datatype:real,name:id;datatype:int" />
+	<infoitem key="UD_rsProd" value="name:cod_item;datatype:string,name:des_item;datatype:string,name:precio;datatype:real,name:costo;datatype:real,name:cant_stock;datatype:real,name:cod_cate;datatype:string,name:precio2;datatype:real,name:impuesto;datatype:real,name:imagen;datatype:string,name:precio_12;datatype:string,name:expiracion;datatype:date,name:precio3;datatype:real,name:precio4;datatype:real,name:id;datatype:int" />
+</info>

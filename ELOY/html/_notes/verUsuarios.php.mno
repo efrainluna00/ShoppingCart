@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsCat" value="name:id;datatype:int,name:cod_cate;datatype:string,name:categoria;datatype:string,name:eliminado;datatype:int" />
+	<infoitem key="UD_rsUsuarios" value="name:cod_usuario;datatype:string,name:password;datatype:string,name:tipoUsuario;datatype:int,name:email;datatype:string,name:nombre;datatype:string,name:apellido;datatype:string" />
+</info>
